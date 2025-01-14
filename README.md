@@ -1,5 +1,7 @@
-# untitled
+# Coffee app
 
-A new Flutter project.
+A Flutter project Coffee shop app
 
 ## Getting Started
+
+A Flutter project to simulate a Coffee app and apply the new and recommended Flutter architecture.
