@@ -26,6 +26,10 @@ class CoffeeApp extends StatelessWidget {
             color: Colors.white,
             fontWeight: FontWeight.w500,
           ),
+          bodySmall: TextStyle(
+            fontSize: 12,
+            color: Colors.white38,
+          ),
           bodyMedium: TextStyle(
             fontSize: 14,
             color: Colors.white60,
@@ -34,6 +38,14 @@ class CoffeeApp extends StatelessWidget {
             fontSize: 18,
             color: Colors.white,
             fontWeight: FontWeight.w700,
+          ),
+          labelMedium: TextStyle(
+            fontSize: 16,
+            color: Color(0xff242424),
+          ),
+          labelLarge: TextStyle(
+            fontSize: 18,
+            color: Color(0xff242424),
           ),
         ),
         buttonTheme: ButtonThemeData(
